@@ -25,11 +25,11 @@
 
 | Lecture | Topic | Video |
 | --- | --- | --- |
-| M1-L1 | Introduction to Finite Automata | [Watch on YouTube]() |
-| M1-L2 | Central Concepts of Automata Theory| [Watch on YouTube]() |
-| M1-L3 |Deterministic Finite Automata (DFA)| [Watch on YouTube](). |
+| M1-L1 |Polar coordinates and polar curves| [Watch on YouTube]() |
+| M1-L2 |Angle between the radius vector and the tangent| [Watch on YouTube]() |
+| M1-L3 |Tutorial 1: tracing and angle phi| [Watch on YouTube](). |
 | M1-L4 |Angle between two curves (polar form) | [Watch on YouTube](https://youtu.be/SVGwXch4KOw). |
-| M1-L5 |Nondeterministic Finite Automata (NFA)| [Watch on YouTube]() |
+| M1-L5 |Pedal equations| [Watch on YouTube](https://youtu.be/Jqs30VWH3co) |
 | M1-L6 |Tutorial: Group Problem Solving on NFA Design and Subset Construction| [Watch on YouTube](). |
 | M1-L7 |Text Search with Finite Automata | [Watch on YouTube](). |
 | M1-L8 | Finite Automata with Epsilon-Transitions| [Watch on YouTube]() |
