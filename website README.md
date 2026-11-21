@@ -30,7 +30,7 @@
 | M1-L3 |Tutorial 1: tracing and angle phi| [Watch on YouTube](). |
 | M1-L4 |Angle between two curves (polar form) | [Watch on YouTube](https://youtu.be/SVGwXch4KOw). |
 | M1-L5 |Pedal equations| [Watch on YouTube](https://youtu.be/Jqs30VWH3co) |
-| M1-L6 |Tutorial: Group Problem Solving on NFA Design and Subset Construction| [Watch on YouTube](). |
+| M1-L6 |Tutorial 2: angle between curves and pedal equations; ICT activities 1 and 2| [Watch on YouTube](https://youtu.be/53-Bg-UFmYM). |
 | M1-L7 |Text Search with Finite Automata | [Watch on YouTube](). |
 | M1-L8 | Finite Automata with Epsilon-Transitions| [Watch on YouTube]() |
 | M1-L9 | JFLAP Simulation and Epsilon-NFA Conversion Problems | [Watch on YouTube]() |
