@@ -6,11 +6,11 @@
 ### Module-Wise Notes (50 hours | CO1 )
 | Lecture Notes | All Module | Notes |
 | --- | --- | --- |
-| M1| Introduction to Finite Automata | [Doi Number](https://doi.org/10.5281/zenodo.24335981) |
-| M2| Regular Expressions and Properties of Regular Languages | [Doi Number](https://doi.org/10.5281/zenodo.24336102) |
-| M3| Context-Free Grammars and Pushdown Automata | [Doi Number](https://doi.org/10.5281/zenodo.24336261) |
-| M4| Normal Forms and Properties of Context-Free Languages  | [Doi Number]() |
-| M5| Turing Machines and Undecidability | [Doi Number]() |
+| M1| Polar Curves and Curvature  | [Doi Number]() |
+| M2| Series Expansion, Indeterminate Forms and Multivariable Calculus | [Doi Number]() |
+| M3| Ordinary Differential Equations of First Order | [Doi Number]() |
+| M4| Ordinary Differential Equations of Higher Order  | [Doi Number]() |
+| M5| Linear Algebra  | [Doi Number]() |
 
 ### Module-Wise Classroom Presentation slide (50 hours | CO1 )
 | Classroom Presentation | All Module | Slides |
