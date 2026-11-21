@@ -32,7 +32,7 @@
 | M1-L5 |Pedal equations| [Watch on YouTube](https://youtu.be/Jqs30VWH3co) |
 | M1-L6 |Tutorial 2: angle between curves and pedal equations; ICT activities 1 and 2| [Watch on YouTube](https://youtu.be/53-Bg-UFmYM). |
 | M1-L7 |Curvature and radius of curvature | [Watch on YouTube](https://youtu.be/X5lpI9b9szw). |
-| M1-L8 | Radius of curvature:parametric form| [Watch on YouTube]() |
+| M1-L8 | Radius of curvature:parametric form| [Watch on YouTube](https://youtu.be/4D-lM2KGwso) |
 | M1-L9 | Tutorial 3: curvature in Cartesian and parametric forms | [Watch on YouTube]() |
 | M1-L10 |Radius of curvature: polar form | [Watch on YouTube](). |
 | M1-L11 |Radius of curvature: pedal form; applications | [Watch on YouTube]() |
