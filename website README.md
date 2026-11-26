@@ -35,5 +35,5 @@
 | M1-L8 | Radius of curvature:parametric form| [Watch on YouTube](https://youtu.be/4D-lM2KGwso) |
 | M1-L9 | Tutorial 3: curvature in Cartesian and parametric forms | [Watch on YouTube](https://youtu.be/dr3jT4ItWIo) |
 | M1-L10 |Radius of curvature: polar form | [Watch on YouTube](https://youtu.be/iLaA8H_UKPs). |
-| M1-L11 |Radius of curvature: pedal form; applications | [Watch on YouTube]() |
+| M1-L11 |Radius of curvature: pedal form; applications | [Watch on YouTube](https://youtu.be/wgIH7Gof7jc) |
 | M1-L12 |Tutorial 4: polar and pedal curvature; ICT activity 3 | [Watch on YouTube](). |
